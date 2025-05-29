@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a high school student interested in sciences and engineering. I’m currently interning with the Washburn lab at UCSB MSI
 <!--
 **OliCaymanosaurus/OliCaymanosaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
